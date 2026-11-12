@@ -1,0 +1,2 @@
+Najwiêksza liczba nieparzysta w skrócie to: 197
+Iloœæ liczb nieparzystych w skrócie to: 181
